@@ -29,4 +29,9 @@ polaris.yml
 .coverity
 idir
 
+main/ui/release/
+main/release
+.idea/copyright/ics_openvpn_gpl.xml
+.idea/copyright/profiles_settings.xml
+
 test.local.conf
